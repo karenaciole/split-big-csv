@@ -10,4 +10,4 @@
 <code>'C:\Users\name\path\to\file.csv'</code> make sure to add <code>r</code> in the parameter before run. It should be look like this: <code>r'C:\Users\name\path\to\file.csv'</code>_ 
 
 2. Save and run <code> python split_csv.py</code> in terminal. 
-3. It will show the path where the files were save. 
+3. It will show the path where the files were save :) 
