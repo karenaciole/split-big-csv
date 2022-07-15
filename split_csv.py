@@ -14,9 +14,7 @@ Parameters
     
     number_of_rows_in_each_csv_file: int 
         number of rows in each csv file
-    
-Returns
-    multiple files with the same name of the original file and extension (.csv)
+
 '''
 
 
