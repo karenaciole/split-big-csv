@@ -11,3 +11,6 @@
 
 2. Save and run <code> python split_csv.py</code> in terminal. 
 3. It will show the path where the files were save :) 
+
+### **Requirements**:
+ - Pandas
