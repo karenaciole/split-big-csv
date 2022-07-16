@@ -17,7 +17,6 @@ Parameters
 
 '''
 
-
 def multiple_files(file, number_of_csv_files, number_of_rows_in_each_csv_file):
     big_file = pd.read_csv(file)
     file_name = os.path.splitext(os.path.basename(file))[0]
